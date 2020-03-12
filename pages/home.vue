@@ -169,7 +169,7 @@
             
             "<i>his attention to detail is second to none! and he delivers early too!</i>"
              <strong style="color:brown;">
--- Duns Duns, Not So Good A StockBroker </strong>
+-- Duns Duns, not so good a stockbroker </strong>
             </p>
             </div>
         
