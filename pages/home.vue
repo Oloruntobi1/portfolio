@@ -7,8 +7,10 @@
                 <nuxt-link to="/">
                  <img src="~/assets/tobi.png" style="max-width: 160px" />
                 </nuxt-link>
-                </figure>
 
+
+                </figure>
+<p class="center"> Bring anything web related to me </p>
                     </div>
     </div>
 </section>
@@ -55,7 +57,7 @@
                  <p class="subtitle is-size-5">
            "<i>The word for this guy is intuitive! he is highly intuitive</i>"
             <strong style="color:pink;">
--- Deyoade </strong>
+--Primzzy Mccall, owner Food Esthetique </strong>
             </p>
             </div>
         </div>
@@ -81,7 +83,7 @@
             
             "<i>his attention to detail is second to none! and he delivers early too!</i>"
              <strong style="color:blue;">
--- Adisa </strong>
+-- Adunni, owner Soleye Chambers, London </strong>
 
             </p>
             </div>
@@ -141,7 +143,7 @@
                  <p class="is-size-5">
             "<i>The word for this guy is intuitive! he is highly intuitive</i>"
             <strong style="color:orange;">
--- Deyoade </strong>
+-- --Primzzy Mccall, owner Food Esthetique  </strong>
             </p>
             </div>
         </div>
@@ -214,7 +216,7 @@
                  <p class="is-size-5">
             "<i>The word for this guy is intuitive! he is highly intuitive</i>"
             <strong style="color:cyan;">
--- Deyoade </strong>
+-- --Primzzy Mccall, owner Food Esthetique  </strong>
             </p>
             </div>
         </div>
@@ -239,7 +241,7 @@
 
             "<i>his attention to detail is second to none! and he delivers early too!</i>"
              <strong style="color:green;">
--- Adisa </strong>
+-- Adunni, owner Soleye Chambers, London</strong>
 
             </p>
             </div>
