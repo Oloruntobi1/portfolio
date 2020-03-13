@@ -265,6 +265,29 @@
 
 </template>
 
+<script>
+export default {
+   head () {
+      return {
+        title: 'Home page for almost everything web related I\'m working on',
+        meta: [
+          { name: 'twitter:title', content: 'Askari Web Projects'},
+          { name: 'twitter:description', content: 'A web developer trove of personal projects'},
+          { name: 'twitter:image', content: 'https://i.imgur.com/UYP2umJ.png'},
+          { name: 'twitter:card', content: 'summary_large_image'},
+          {property: "og:title", content:"Askari Web projects"},
+          {property: "og:description", content: "An avid web developer trove of personal projects."},
+          {property: "og:image", content: "http://euro-travel-example.com/thumbnail.jpg"},
+          {property: "og:url", content: "http://euro-travel-example.com/index.htm"}
+
+        ]
+      }
+    }
+
+}
+
+</script>
+
 <style scoped>
 .center {
   display: flex;

@@ -57,7 +57,22 @@ import Logo from '~/components/Logo.vue'
 export default {
   components: {
     Logo
-  }
+  },
+   head () {
+    return {
+      title: 'An expanding world of web programming',
+      meta: [
+        { name: 'twitter:title', content: 'Links to lots of project you might love'},
+        { name: 'twitter:description', content: 'Would always be worth the visit!'},
+        // { name: 'twitter:image', content: 'https://i.imgur.com/UYP2umJ.png'},
+        { name: 'twitter:card', content: 'summary_large_image'},
+        {property: "og:title", content:"Askari Web projects"},
+        {property: "og:description", content: "An avid web developer trove of personal projects."},
+        {property: "og:image", content: "http://euro-travel-example.com/thumbnail.jpg"},
+        {property: "og:url", content: "http://euro-travel-example.com/index.htm"}
+      ]
+    }
+  },
 }
 </script>
 
